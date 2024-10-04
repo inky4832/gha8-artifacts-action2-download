@@ -46,7 +46,6 @@ jobs:
       - name: Output contents          
         run: |
           ls
-          ls -R 
 
       - name: Deploy
         run: echo "Deploying..."
